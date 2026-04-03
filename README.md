@@ -21,16 +21,7 @@ This project focuses on fine-tuning a Large Language Model (TinyLlama) for code 
 - HTML, CSS, JavaScript
 - Google Colab
 - VS Code
-- ## Project Structure
-- project/
-│
-├── dataset.json
-├── preprocess.py
-├── eval_model.py
-├── compare_models.py
-├── app.py
-├── index.html
-├── fine_tuned_model
+
 
 ## How to Run
 1. Start backend:
@@ -43,5 +34,3 @@ This project focuses on fine-tuning a Large Language Model (TinyLlama) for code 
 
 ## Author
 Jatin 
-
-## Project Structure
